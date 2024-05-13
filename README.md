@@ -1,2 +1,3 @@
-# Androi_UI_Designing
-The app provides a user-friendly platform for students to search, compare, and book boarding places according to their preferences and budget.
+# Mobile game Android Studio
+In this car game Road Rivals, players must protect their car from crashing with other oncoming cars
+by moving the car to the left and right sides.
